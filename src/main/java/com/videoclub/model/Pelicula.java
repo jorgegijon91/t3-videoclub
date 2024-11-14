@@ -18,6 +18,17 @@ public class Pelicula {
         this.precio = precio;
     }
 
+    //Constructor sin id
+
+    public Pelicula(String titulo, String director, int anio, String genero, float precio) {
+        this.titulo = titulo;
+        this.director = director;
+        this.anio = anio;
+        this.genero = genero;
+        this.precio = precio;
+    }
+
+
     //Getter y setter de todo
 
 

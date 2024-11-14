@@ -10,7 +10,7 @@ import java.util.List;
 
 public class PeliculaDaoImpl implements PeliculaDAO{
     //Atributos para la conexión
-    private final String url="jdbc:mariadb://localhost:3306/adt_t3_videoclub";
+    private final String url="jdbc:mariadb://localhost:3306/adt_t3_videoculub";
     private final String username="root";
     private final String password="";
 
